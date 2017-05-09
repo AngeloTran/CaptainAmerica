@@ -1,1 +1,11 @@
-
+ body {
+   background-image: url("https://images.alphacoders.com/669/669681.jpg");
+                        background-size: 80px 60px;
+         }
+      h1 {
+         color: red;
+      }
+         h2 { 
+            color: blue;
+         }
+         
