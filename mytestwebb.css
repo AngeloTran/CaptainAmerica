@@ -11,20 +11,20 @@
          
 /* unvisited link */
 a:link {
-    color: green;
+    color: blue;
 }
 
 /* visited link */
 a:visited {
-    color: green;
+    color: red;
 }
 
 /* mouse over link */
 a:hover {
-    color: red;
+    color: white;
 }
 
 /* selected link */
 a:active {
-    color: yellow;
+    color: purple;
 } 
