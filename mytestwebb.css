@@ -28,6 +28,7 @@ a:hover {
 a:active {
     color: purple;
 } 
-<ol>
-color: red
-</ol>
+ol  {
+    
+    color: red
+}
